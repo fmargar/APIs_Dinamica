@@ -28,4 +28,4 @@ Durante el proceso de desarrollo se presentaron los siguientes desafíos:
 * **Estética y usabilidad:** Para evitar que la página se viera desordenada al cargar muchos datos, se utilizó un sistema de **CSS Grid** que adapta el número de tarjetas automáticamente según el tamaño de la pantalla del dispositivo.
 
 ---
-*Proyecto educativo para el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web.*
+*Proyecto educativo para el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web.*.
